@@ -5,4 +5,6 @@ function addingEventListener(){
   }); 
 }
 
+addingEventListener('click, clickAlert')
+
 
